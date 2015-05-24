@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugasProject</string>
+
+    <string name="hello_world">Silahkan Anda memilih salah satu dokter di bawah ini:</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hasil_pilih">HasilPilih</string>
+</resources>
